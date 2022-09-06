@@ -18,6 +18,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "credit-card-type": "^9.1.0",
+    "inputmask": "^5.0.7",
     "sirv-cli": "^2.0.0"
   }
 }
